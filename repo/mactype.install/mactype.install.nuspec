@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+    <metadata>
+        <id>mactype.install</id>
+        <version>1.2016.904.0</version>
+        <title>MacType 1.2016.904.0 released</title>
+        <authors>snowie2000</authors>
+        <projectUrl>https://github.com/snowie2000/mactype</projectUrl>
+        <description>The crash bug related to chrome has been solved.
+            added a new param: GammaValueDW, only used in DW tweak. If left unset, it behaviors the same as previous
+            release.
+            Installer improved, no more file not found error. (You will still see this error when you upgrade from last
+            release, but won't see it anymore in the future. 'cause this bug is caused by the uninstaller, not
+            installer)
+        </description>
+    </metadata>
+    <files>
+        <file src="tools\**" target="tools"/>
+    </files>
+</package>
