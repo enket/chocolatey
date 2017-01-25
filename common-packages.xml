@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<packages>
+    <!-- Browsers -->
+    <package id="googlechrome"/>
+    <package id="Firefox"/>
+
+    <!-- Tools -->
+    <package id=""/>
+
+    <!-- Styles -->
+    <package id=""/>
+
+</packages>
