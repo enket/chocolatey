@@ -2,10 +2,19 @@
 <packages>
     <!-- Browsers -->
     <package id="googlechrome"/>
-    <package id="Firefox"/>
+    <package id="firefox"/>
 
     <!-- Tools -->
-    <package id=""/>
+    <package id="7zip.install"/>
+    <package id="teamviewer"/>
+    <package id="dukto"/>
+    <package id="jdownloader"/>
+    <package id="utorrent"/>
+
+    <!-- Media -->
+    <package id="vlc"/>
+    <package id="itunes"/>
+    <package id="spotify"/>
 
     <!-- Styles -->
     <package id=""/>
