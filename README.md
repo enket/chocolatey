@@ -8,5 +8,5 @@ Just run the following command from an administrative PowerShell v3+ prompt
 
 ### Installing Custom Package
 
-    cinst https://raw.githubusercontent.com/enket/chocolatey/master/common-packages.xml
+    iwr https://raw.githubusercontent.com/enket/chocolatey/master/common-packages.config -UseBasicParsing | cinst
 
