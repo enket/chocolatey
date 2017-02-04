@@ -10,6 +10,8 @@
     <package id="dukto"/>
     <package id="jdownloader"/>
     <package id="utorrent"/>
+    <package id="office365proplus"/>
+    <package id="adobe-creative-cloud"/>
 
     <!-- Media -->
     <package id="vlc"/>
@@ -17,5 +19,11 @@
     <package id="spotify"/>
 
     <!-- Styles -->
+
+    <!-- Develop -->
+    <package id="git.install"/>
+    <package id="atom"/>
+    <package id="jetbrainstoolbox"/>
+    <package id="nodist"/>
 
 </packages>
